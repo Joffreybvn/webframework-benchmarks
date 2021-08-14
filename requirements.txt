@@ -1,0 +1,6 @@
+blacksheep
+uvicorn
+fastapi
+pydantic
+fastjsonschema
+locust
